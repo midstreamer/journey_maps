@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/midstreamer/journey_maps/issues"
   },
-  "homepage": "https://github.com/midstreamer/journey_maps#readme"
+  "homepage": "https://github.com/midstreamer/journey_maps#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
 }
